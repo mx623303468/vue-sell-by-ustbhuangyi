@@ -1,0 +1,12 @@
+diff a/src/store.js b/src/store.js	(rejected hunks)
+@@ -1,2 +1,2 @@
+-import Vue from "vue";
+-import Vuex from "vuex";
++import Vue from 'vue'
++import Vuex from 'vuex'
+@@ -4 +4 @@ import Vuex from "vuex";
+-Vue.use(Vuex);
++Vue.use(Vuex)
+@@ -10 +10 @@ export default new Vuex.Store({
+-});
++})

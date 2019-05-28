@@ -1,0 +1,4 @@
+diff a/src/App.vue b/src/App.vue	(rejected hunks)
+@@ -13 +13 @@
+-  font-family: "Avenir", Helvetica, Arial, sans-serif;
++  font-family: 'Avenir', Helvetica, Arial, sans-serif;

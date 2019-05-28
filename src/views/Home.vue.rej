@@ -1,0 +1,10 @@
+diff a/src/views/Home.vue b/src/views/Home.vue	(rejected hunks)
+@@ -10 +10 @@
+-import HelloWorld from "@/components/HelloWorld.vue";
++import HelloWorld from '@/components/HelloWorld.vue'
+@@ -13 +13 @@ export default {
+-  name: "home",
++  name: 'home',
+@@ -17 +17 @@ export default {
+-};
++}

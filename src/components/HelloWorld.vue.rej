@@ -1,0 +1,7 @@
+diff a/src/components/HelloWorld.vue b/src/components/HelloWorld.vue	(rejected hunks)
+@@ -91 +91 @@ export default {
+-  name: "HelloWorld",
++  name: 'HelloWorld',
+@@ -95 +95 @@ export default {
+-};
++}
